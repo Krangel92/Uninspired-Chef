@@ -7,8 +7,11 @@
 **How it works**: Enter your ingredients, get recipe ideas instantly
 
 **Benefits**: 
+
 Reduces food waste
+
 No more last-minute grocery runs
+
 Makes cooking easy and fun
 
 **Our Mission**: To turn uninspired moments into culinary creativity
