@@ -18,11 +18,18 @@ https://trello.com/b/08mUmnLZ/uninspired-chef
 
 
 
-## Acebook MERN Template
+## Uninspired Chef Web app
 
-In this project, you are task with working on an existing application. A
-significant part of the challenge will be to familiarise yourself with the
-codebase you've inherited, as you work to **improve and extend** it.
+**Problem**: The 'What am I going to cook?' dilemma we all face
+**Solution**: Uninspired Chef – Your personal recipe generator
+**How it works**: Enter your ingredients, get recipe ideas instantly
+
+**Benefits**: 
+Reduces food waste
+No more last-minute grocery runs
+Makes cooking easy and fun
+
+**Our Mission**: To turn uninspired moments into culinary creativity
 
 ### Structure
 
