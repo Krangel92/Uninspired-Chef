@@ -1,3 +1,19 @@
+## Uninspired Chef Web app
+
+**Problem**: The 'What am I going to cook?' dilemma we all face
+
+**Solution**: Uninspired Chef – Your personal recipe generator
+
+**How it works**: Enter your ingredients, get recipe ideas instantly
+
+**Benefits**: 
+Reduces food waste
+No more last-minute grocery runs
+Makes cooking easy and fun
+
+**Our Mission**: To turn uninspired moments into culinary creativity
+
+
 ## Trello Board
 https://trello.com/b/08mUmnLZ/uninspired-chef
 
@@ -18,18 +34,6 @@ https://trello.com/b/08mUmnLZ/uninspired-chef
 
 
 
-## Uninspired Chef Web app
-
-**Problem**: The 'What am I going to cook?' dilemma we all face
-**Solution**: Uninspired Chef – Your personal recipe generator
-**How it works**: Enter your ingredients, get recipe ideas instantly
-
-**Benefits**: 
-Reduces food waste
-No more last-minute grocery runs
-Makes cooking easy and fun
-
-**Our Mission**: To turn uninspired moments into culinary creativity
 
 ### Structure
 
